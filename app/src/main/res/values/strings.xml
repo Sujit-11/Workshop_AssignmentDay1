@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Embedding and Encryption</string>
+    <string name="decryption">Decryption</string>
+    <string name="encryption">Encryption</string>
+</resources>
